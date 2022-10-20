@@ -1,0 +1,13 @@
+.faq {
+    margin-top: 128px;
+}
+.details__title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: 0.04em;
+
+    color: rgba(0, 0, 0, 0.8);
+}
